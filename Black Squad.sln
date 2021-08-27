@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Black Squad", "Black Squad\Black Squad.vcxproj", "{4C40B30F-F64E-4D85-9A06-7DBC6F4408E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE3 Instance Logger", "UE3 Instance Logger\UE3 Instance Logger.vcxproj", "{C9DD4375-2A49-4DF4-8BB5-F39B15B66A8C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDK Generator", "SDK Generator\SDK Generator.vcxproj", "{AD6E108E-0BB2-484F-9AD9-B88EED72A588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C40B30F-F64E-4D85-9A06-7DBC6F4408E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C40B30F-F64E-4D85-9A06-7DBC6F4408E1}.Debug|Win32.Build.0 = Debug|Win32
+		{4C40B30F-F64E-4D85-9A06-7DBC6F4408E1}.Release|Win32.ActiveCfg = Release|Win32
+		{4C40B30F-F64E-4D85-9A06-7DBC6F4408E1}.Release|Win32.Build.0 = Release|Win32
+		{C9DD4375-2A49-4DF4-8BB5-F39B15B66A8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9DD4375-2A49-4DF4-8BB5-F39B15B66A8C}.Debug|Win32.Build.0 = Debug|Win32
+		{C9DD4375-2A49-4DF4-8BB5-F39B15B66A8C}.Release|Win32.ActiveCfg = Release|Win32
+		{C9DD4375-2A49-4DF4-8BB5-F39B15B66A8C}.Release|Win32.Build.0 = Release|Win32
+		{AD6E108E-0BB2-484F-9AD9-B88EED72A588}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD6E108E-0BB2-484F-9AD9-B88EED72A588}.Debug|Win32.Build.0 = Debug|Win32
+		{AD6E108E-0BB2-484F-9AD9-B88EED72A588}.Release|Win32.ActiveCfg = Release|Win32
+		{AD6E108E-0BB2-484F-9AD9-B88EED72A588}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
